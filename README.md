@@ -87,7 +87,9 @@ Docker engine install: https://docs.docker.com/engine/
 
 Una vez instalado podemos tener un panel gráfico en Windows o la linea de comandos tanto en linux como en Mac. El resto de documento lo basamos en linea de comandos.
 
-## 1.- Creamos la imagen docker
+
+## 1.- Creamos la imagen docker
+
 
 Por ejemplo, vamos a crear la imagen con el nombre del alumno. Nos situamos en la base del proyecto, donde está el Dockerfile:
 
